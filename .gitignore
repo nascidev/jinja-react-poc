@@ -1,0 +1,4 @@
+# write gitignore here
+
+.DS_Store
+venv/
